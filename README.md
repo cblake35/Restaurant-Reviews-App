@@ -1,3 +1,5 @@
+##*The files in this repository are the completed project. In order to start a new project, follow the instructions below.
+
 # Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
